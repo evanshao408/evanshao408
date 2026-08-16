@@ -9,29 +9,30 @@
 
 ---
 
-## Tech Stack
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,python,java,git,github,vscode,docker" alt="My Skills" />
-  </a>
-</p>
-
-
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=evanshao408&show_icons=true&theme=tokyonight&rank_icon=github&hide_border=true" alt="GitHub Stats" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=evanshao408&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="170" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=evanshao408&theme=tokyonight" alt="Profile Details" />
 </p>
 
 
-## GitHub Trophy
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=evanshao408&theme=tokyonight" alt="GitHub Stats" height="170" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=evanshao408&theme=tokyonight" alt="Top Languages" height="170" />
+</p>
+
+
+## Streak Stats
 
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=evanshao408&theme=tokyonight&no-frame=true&row=2&column=3&margin-w=15&margin-h=15" alt="GitHub Trophy" />
-  </a>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=evanshao408&theme=tokyonight" alt="GitHub Streak" />
+</p>
+
+
+## Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=evanshao408&theme=tokyo-night" alt="Contribution Graph" />
 </p>
 
 
